@@ -57,13 +57,7 @@ output.py
 
 ---
 
-## Output Description
-
-- **detections/**  
-  Contains face detection outputs  
-
-- **embeddings/**  
-  Stores numerical representations of faces  
+## Output Description 
 
 - **metadata/**  
   JSON files linking images, faces, and embeddings  
